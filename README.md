@@ -1,4 +1,4 @@
-# 🧠 MNIST Handwritten Digit Classification using Perceptron & CNN
+# 🧠 MNIST Digit Classification (Perceptron vs. CNN)
 
 An end-to-end Machine Learning & Deep Learning project evaluating and comparing a **Single-Layer Perceptron** baseline model against a multi-layer **Convolutional Neural Network (CNN)** for handwritten digit recognition on the MNIST dataset using TensorFlow/Keras.
 
@@ -56,8 +56,8 @@ This repository demonstrates the power of Convolutional Neural Networks (CNNs) i
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Rohitjana9098/MNIST-Handwritten-Digit-Classification-CNN.git
-cd MNIST-Handwritten-Digit-Classification-CNN
+git clone https://github.com/Rohitjana9098/MNIST-Digit-Classification-Perceptron-CNN.git
+cd MNIST-Digit-Classification-Perceptron-CNN
 ```
 
 ### 2. Install Dependencies
@@ -75,8 +75,3 @@ Or open notebook:
 jupyter notebook CNN.ipynb
 ```
 
----
-
-## 🏷️ Suggested Repository Rename
-Recommended repository name based on project contents:
-👉 **`MNIST-Handwritten-Digit-Classification-CNN`** or **`MNIST-Digit-Classification-CNN`**
